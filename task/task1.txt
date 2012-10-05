@@ -1,6 +1,0 @@
-/home/kchorna/task/testLog29.txt:127.0.0.1 - - [13/Aug/2012:11:20:01 +0000] "HEAD /ch/32189/FixedFlumeReportingVoideo HTTP/1.0" 302 - "-" "Wget/1.13.4 (linux-gnu)"
-/home/kchorna/task/testLog29.txt:127.0.0.1 - - [13/Aug/2012:11:20:03 +0000] "HEAD /sites/default/files/video/32189/video_profile_h264_aac_hinted/Simple_mpg.mp4 HTTP/1.0" 200 - "-" "Wget/1.13.4 (linux-gnu)"
-/home/kchorna/task/testLog29.txt:127.0.0.1 - - [13/Aug/2012:11:21:01 +0000] "HEAD /ch/32189/FixedFlumeReportingVoideo HTTP/1.0" 302 - "-" "Wget/1.13.4 (linux-gnu)"
-/home/kchorna/task/testLog29.txt:127.0.0.1 - - [13/Aug/2012:11:21:01 +0000] "HEAD /sites/default/files/video/32189/video_profile_h264_aac_hinted/Simple_mpg.mp4 HTTP/1.0" 200 - "-" "Wget/1.13.4 (linux-gnu)"
-/home/kchorna/task/testLog29.txt:127.0.0.1 - - [13/Aug/2012:11:21:25 +0000] "HEAD /ch/32189/FixedFlumeReportingVoideo HTTP/1.0" 302 - "-" "Mozilla/5.0 (Windows NT 5.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2"
-/home/kchorna/task/testLog29.txt:127.0.0.1 - - [13/Aug/2012:11:21:25 +0000] "HEAD /sites/default/files/video/32189/video_profile_h264_aac_hinted/Simple_mpg.mp4 HTTP/1.0" 200 - "-" "Mozilla/5.0 (Windows NT 5.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2"
