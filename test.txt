@@ -1,0 +1,23 @@
+1. Create table with following columns: id, name (of Company), country, city, team_members, investment. Id values should be assigned automatically, name values should be unique.
+
+Feel free to use these values:
++----+-----------+---------+-----------+--------------+------------+
+| id | name      | country | city      | team_members | investment |
++----+-----------+---------+-----------+--------------+------------+
+|  1 | Cogniance | UA      | Kyiv      |          567 |      90000 |
+|  2 | Microsoft | USA     | Redmond   |      1000000 |    7000000 |
+|  3 | Raduga    | UA      | Ternopil  |            3 |   75000000 |
+|  4 | Magento   | UA      | Kharkiv   |           50 |       5000 |
+|  5 | Google    | USA     | MV        |          100 |       9000 |
+|  7 | Kenguru   | AT      | Canberra  |          100 |      20000 |
++----+-----------+---------+-----------+--------------+------------+
+
+2. Send MySQL request to receive all records sorted by name, in descending order. 
+
+3. Change investments values to "200" for companies in which 50<team_members<100.
+
+4. Send MySQL request to receive list of all countries from the table (without duplicating it).
+
+5. Send MySQL request to sum team memers of companies, which names begin with "M".
+
+6. Send MySQL request to receive list of countries in which sum of team members > 100.
