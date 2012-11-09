@@ -8,8 +8,8 @@ Feel free to use these values:
 |  2 | Microsoft | USA     | Redmond   |      1000000 |    7000000 |
 |  3 | Raduga    | UA      | Ternopil  |            3 |   75000000 |
 |  4 | Magento   | UA      | Kharkiv   |           50 |       5000 |
-|  5 | Google    | USA     | MV        |          100 |       9000 |
-|  7 | Kenguru   | AT      | Canberra  |          100 |      20000 |
+|  5 | Google    | USA     | MV        |           75 |       9000 |
+|  7 | Kenguru   | AT      | Canberra  |           99 |      20000 |
 +----+-----------+---------+-----------+--------------+------------+
 
 2. Send MySQL request to receive all records sorted by name, in descending order. 
