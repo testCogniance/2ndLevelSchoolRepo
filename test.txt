@@ -16,7 +16,7 @@ Feel free to use these values:
 
 3. Change investments values to "200" for companies in which 50<team_members<100.
 
-4. Send MySQL request to receive list of all countries from the table (without duplicating it).
+4. Send MySQL request to receive list of all countries from the table (without duplicating them).
 
 5. Send MySQL request to sum team memers of companies, which names begin with "M".
 
